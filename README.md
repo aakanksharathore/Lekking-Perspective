@@ -8,9 +8,9 @@ At the beginning of lekking season, males are attracted towards the breeding gro
 
 We place individuals randomly in a landscape and simulate the above rules over many discrete time steps. Animation below illustrates the initial state and the steady state of these simulations, clearly demonstrating that the formation of a lek requires a few basic local interaction rules. 
 
-
+<br>
 <img src="https://github.com/aakanksharathore/Lekking-erspective/lek_formation.gif" alt="Alt text" title="Lek formation model">
-
+<br>
 ## Foraging departures
 
 We model one of the emergent patterns i.e. (Coordinated) male  departure for foraging. We consider the lek thus formed from the above set of rules. We assume that each individual on the lek can temporarily switch to a foraging state, with a probability $p_f$ at each discrete time step. An individual in the foraging state is attracted towards a nearby foraging site (or a water hole). After reaching the foraging site, the individual switches back to the lekking state and thus returns to the lek arena. For the purpose of this exercise, we do not model within lek spatial fidelity of individuals. 
@@ -18,11 +18,12 @@ We model one of the emergent patterns i.e. (Coordinated) male  departure for for
 We now consider two possible ways foraging departures from the lek may happen: A first possibility is where each individual switches to a foraging state independent of the foraging state of other males on the lek. A second possibility invokes social behaviour; specifically, we assume that, at each discrete time step, each individual in the lekking state may switch to the foraging state at a probability that is proportional to the number of neighbours in the foraging state. Once it switches to the foraging state, individuals move towards the foraging site and return to the lekking site, as described above without any further social interactions. 
 
 In the below animations, we display sample trajectories for these possibilities, demonstrating that in the case of the social interaction model, we are likely to observe clustered departures towards the foraging site.
-
+<br>
 <img src="https://github.com/aakanksharathore/Lekking-erspective/rs0.gif" alt="Alt text" title="Random departures - no social interation">
+<br>
 
-
+<br>
 <img src="https://github.com/aakanksharathore/Lekking-erspective/lek_formation.gif" alt="Alt text" title="Synchronised departures - copying among neighbours">
-
+<br>
 
 
