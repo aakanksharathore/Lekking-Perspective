@@ -11,6 +11,7 @@ We place individuals randomly in a landscape and simulate the above rules over m
 <br>
 <img src="https://github.com/aakanksharathore/Lekking-erspective/lek_formation.gif" alt="Alt text" title="Lek formation model">
 <br>
+
 ## Foraging departures
 
 We model one of the emergent patterns i.e. (Coordinated) male  departure for foraging. We consider the lek thus formed from the above set of rules. We assume that each individual on the lek can temporarily switch to a foraging state, with a probability $p_f$ at each discrete time step. An individual in the foraging state is attracted towards a nearby foraging site (or a water hole). After reaching the foraging site, the individual switches back to the lekking state and thus returns to the lek arena. For the purpose of this exercise, we do not model within lek spatial fidelity of individuals. 
