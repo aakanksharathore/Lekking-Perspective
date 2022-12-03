@@ -53,7 +53,7 @@ g <- ggplot(dat1, aes(x = x, y = y)) +
 g+ geom_density_2d_filled(alpha = 0.5) +
   geom_density_2d(size = 0.25, colour = "black")+
   theme(legend.position = "none")
-
+ 
 
 ## female hotspots
 dat2 = dat[dat$Sex == "F",]
