@@ -12,8 +12,6 @@ We place individuals randomly in a landscape and simulate the above rules over m
 <img src="https://github.com/aakanksharathore/Lekking-Perspective/blob/main/lek_formation.gif" alt="Alt text" title="Lek formation model">
 <br>
 
-![](https://github.com/aakanksharathore/Lekking-Perspective/blob/main/lek_formation.gif)
-
 ## Foraging departures
 
 We model one of the emergent patterns i.e. (Coordinated) male  departure for foraging. We consider the lek thus formed from the above set of rules. We assume that each individual on the lek can temporarily switch to a foraging state, with a probability $p_f$ at each discrete time step. An individual in the foraging state is attracted towards a nearby foraging site (or a water hole). After reaching the foraging site, the individual switches back to the lekking state and thus returns to the lek arena. For the purpose of this exercise, we do not model within lek spatial fidelity of individuals. 
@@ -22,11 +20,11 @@ We now consider two possible ways foraging departures from the lek may happen: A
 
 In the below animations, we display sample trajectories for these possibilities, demonstrating that in the case of the social interaction model, we are likely to observe clustered departures towards the foraging site.
 <br>
-<img src="https://github.com/aakanksharathore/Lekking-Perspective/rs0.gif" alt="Alt text" title="Random departures - no social interation">
+<img src="https://github.com/aakanksharathore/Lekking-Perspective/blob/main/rs0.gif" alt="Alt text" title="Random departures - no social interation">
 <br>
 
 <br>
-<img src="https://github.com/aakanksharathore/Lekking-Perspective/lek_formation.gif" alt="Alt text" title="Synchronised departures - copying among neighbours">
+<img src="https://github.com/aakanksharathore/Lekking-Perspective/blob/main/lek_formation.gif" alt="Alt text" title="Synchronised departures - copying among neighbours">
 <br>
 
 
