@@ -9,10 +9,10 @@ At the beginning of lekking season, males are attracted towards the breeding gro
 We place individuals randomly in a landscape and simulate the above rules over many discrete time steps. Animation below illustrates the initial state and the steady state of these simulations, clearly demonstrating that the formation of a lek requires a few basic local interaction rules. 
 
 <br>
-<img src="https://github.com/aakanksharathore/Lekking-Perspective/lek_formation.gif" alt="Alt text" title="Lek formation model">
+<img src="https://github.com/aakanksharathore/Lekking-Perspective/blob/main/lek_formation.gif" alt="Alt text" title="Lek formation model">
 <br>
 
-![](lek_formation.gif)
+![](https://github.com/aakanksharathore/Lekking-Perspective/blob/main/lek_formation.gif)
 
 ## Foraging departures
 
