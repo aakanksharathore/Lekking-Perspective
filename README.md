@@ -9,7 +9,7 @@ At the beginning of lekking season, males are attracted towards the breeding gro
 We place individuals randomly in a landscape and simulate the above rules over many discrete time steps. Animation below illustrates the initial state and the steady state of these simulations, clearly demonstrating that the formation of a lek requires a few basic local interaction rules. 
 
 <br>
-<img src="https://github.com/aakanksharathore/Lekking-erspective/lek_formation.gif" alt="Alt text" title="Lek formation model">
+<img src="https://github.com/aakanksharathore/Lekking-Perspective/lek_formation.gif" alt="Alt text" title="Lek formation model">
 <br>
 
 ![](lek_formation.gif)
@@ -22,11 +22,11 @@ We now consider two possible ways foraging departures from the lek may happen: A
 
 In the below animations, we display sample trajectories for these possibilities, demonstrating that in the case of the social interaction model, we are likely to observe clustered departures towards the foraging site.
 <br>
-<img src="https://github.com/aakanksharathore/Lekking-erspective/rs0.gif" alt="Alt text" title="Random departures - no social interation">
+<img src="https://github.com/aakanksharathore/Lekking-Perspective/rs0.gif" alt="Alt text" title="Random departures - no social interation">
 <br>
 
 <br>
-<img src="https://github.com/aakanksharathore/Lekking-erspective/lek_formation.gif" alt="Alt text" title="Synchronised departures - copying among neighbours">
+<img src="https://github.com/aakanksharathore/Lekking-Perspective/lek_formation.gif" alt="Alt text" title="Synchronised departures - copying among neighbours">
 <br>
 
 
